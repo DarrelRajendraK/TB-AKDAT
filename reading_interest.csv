@@ -1,0 +1,143 @@
+Provinsi,Year,Reading Frequency per week,Number of Readings per Quarter,Daily Reading Duration (in minutes),Internet Access Frequency per Week,Daily Internet Duration (in minutes),Tingkat Kegemaran Membaca (Reading Interest),Category
+Aceh,2021,5.5,4.5,103,5,83.9,64.13,High
+Aceh,2022,5,5.5,94.3,5.5,123.4,65.85,High
+Aceh,2023,5,5.5,95,5.5,104,66.64,Moderate
+Bali,2021,5.5,4.5,82,5.5,100.2,59.8,Moderate
+Bali,2022,5,5.5,98,5.5,116.9,65.59,High
+Bali,2023,5,5.5,100,5.5,117,67.39,Moderate
+Bangka Belitung Islands,2021,4.5,4.5,101.6,5.5,104.3,61.81,High
+Bangka Belitung Islands,2022,5,5.5,85.6,5.5,98.6,63.08,High
+Bangka Belitung Islands,2023,6.3,6.1,103.2,6,96.4,66.54,High
+Banten,2021,5,4.5,100.2,5.5,110,61.78,High
+Banten,2022,5,5.5,97.4,5.5,111.2,65.7,High
+Banten,2023,5.5,5.5,93,5,114,66.23,Moderate
+Bengkulu,2021,4.5,4.5,98.2,5.5,123,62.14,High
+Bengkulu,2022,5,5.5,92.6,5.5,116.8,64.16,High
+Bengkulu,2023,5.2,5.6,108.2,6.6,98,61.47,High
+Central Java,2021,5.5,4.5,124.2,5.5,126.9,68.3,High
+Central Java,2022,5.5,5.5,124.8,7,122.9,70.96,High
+Central Java,2023,5.5,6,110,5.5,129,71.31,Moderate
+Central Kalimantan,2021,4.5,4,113.3,5,112.7,60.38,Moderate
+Central Kalimantan,2022,5,5.5,96.6,5,102.8,63.82,High
+Central Kalimantan,2023,5,5.5,91,5.5,110,65.95,Moderate
+Central Sulawesi,2021,5.6,5.8,116.1,5.2,102.2,66.09,High
+Central Sulawesi,2022,4,4.5,87.6,5,111.8,56.86,Moderate
+Central Sulawesi,2023,5.2,5.9,115.2,5.8,94.5,68.07,High
+East Java,2021,5.5,4.5,102,5.5,112.6,64.2,High
+East Java,2022,5.5,5.5,106.1,7,123.5,68.54,High
+East Java,2023,6.1,4.5,101,5.8,131.1,69.82,High
+East Kalimantan,2021,5.5,4.5,91.8,5.5,112.9,64.85,High
+East Kalimantan,2022,5.5,5.5,94.2,7,117.4,66.84,High
+East Kalimantan,2023,6,4.4,90.9,5.4,130.4,70.83,High
+East Nusa Tenggara,2021,5,4.5,95.8,5.5,114.3,63,High
+East Nusa Tenggara,2022,5,5.5,90,5.5,126.4,64.84,High
+East Nusa Tenggara,2023,5.7,5.7,119.3,5.2,83.7,62.93,High
+Gorontalo,2021,4.5,3.5,96.2,5,112.8,56.58,Moderate
+Gorontalo,2022,4,4.5,101.4,4.5,116.7,58.72,Moderate
+Gorontalo,2023,5.6,6.7,105.3,5.5,131.7,64.87,High
+Jakarta,2021,4.5,4.5,101.6,5.5,107.7,62.25,High
+Jakarta,2022,5.5,5.5,112.4,5.5,114.2,68.71,High
+Jakarta,2023,5.5,5,126,5.5,124,69.94,Moderate
+Jambi,2021,4.5,4,88.6,5,97.8,57.52,Moderate
+Jambi,2022,5,5,98.3,5,114.9,63.75,High
+Jambi,2023,5,5.5,112,5.5,130,68.1,Moderate
+Lampung,2021,5,4.5,86.8,5.5,101.2,62.44,High
+Lampung,2022,5,5.5,96.1,5.5,106.6,64.19,High
+Lampung,2023,5.1,4.3,106.8,5.7,133.5,61.12,High
+Maluku,2021,5.6,6.3,113.2,6.1,124.5,69.51,High
+Maluku,2022,4,5,83.4,5,120.6,56.88,Moderate
+Maluku,2023,4.5,5,97,5.5,124,62.88,Moderate
+North Kalimantan,2021,4.5,3.5,95.5,4.5,111.4,56.12,Moderate
+North Kalimantan,2022,4.5,5,88.4,5.5,114.2,60.7,High
+North Kalimantan,2023,5.4,6.4,91.9,6.4,99.8,66.62,High
+North Maluku,2021,4.5,4,102.6,4.5,109.1,60.01,Moderate
+North Maluku,2022,4.5,4.5,112.4,5.5,140.8,62.32,High
+North Maluku,2023,5.7,6.7,111.4,5.7,105.1,71.03,High
+North Sulawesi,2021,5.2,5.4,129.7,5,83,62.09,High
+North Sulawesi,2022,4,4.5,87.7,5,118.9,55.58,Moderate
+North Sulawesi,2023,5,5,104,5.5,124,64.41,Moderate
+North Sumatra,2021,4.5,4,94.1,5.5,106,57.26,Moderate
+North Sumatra,2022,5,5,100.2,5.5,113.7,64.7,High
+North Sumatra,2023,5,5.5,105,5.5,110,67.01,Moderate
+Papua,2021,6,4.7,112,6.5,122.6,61.82,High
+Papua,2022,4,4.5,91.5,5,130.2,55.93,Moderate
+Papua,2023,4.5,5,99,4,83,60.58,Moderate
+Riau,2021,5,4,90.6,5.5,115.3,59.77,Moderate
+Riau,2022,5,5.5,95.8,5.5,114.2,64.23,High
+Riau,2023,5,5.5,100,5.5,115,66.69,Moderate
+Riau Islands,2021,4.5,4.5,97.5,5.5,113.7,61.83,High
+Riau Islands,2022,4.5,5,94,5.5,129.8,62.02,High
+Riau Islands,2023,5,5,112,5,104,65.8,Moderate
+South East Sulawesi,2021,4.5,3.5,85.2,5.5,122.5,57.63,Moderate
+South East Sulawesi,2022,5,5.5,96.6,5.5,121.2,65.23,High
+South East Sulawesi,2023,5.5,5.5,101,6,116,68.02,Moderate
+South Kalimantan,2021,5,4.5,92.6,5.5,104.3,60.85,Moderate
+South Kalimantan,2022,4.5,5.5,105.9,5,105.2,64.95,High
+South Kalimantan,2023,5.2,5.5,102.1,6.1,103.2,69.68,High
+South Sulawesi,2021,5,4.5,106.7,5.5,113.5,63.1,High
+South Sulawesi,2022,5,5.5,98.3,7,117.9,67.62,High
+South Sulawesi,2023,5.1,5.8,108.9,6.6,85.9,69.22,High
+South Sumatra,2021,4.5,4,84.2,4.5,100.2,55.51,Moderate
+South Sumatra,2022,4.5,5,92,5,109.5,61.52,High
+South Sumatra,2023,5,5,105,5.5,103,64.15,Moderate
+West Java,2021,5.5,4.5,108.7,5.5,117.2,65.34,High
+West Java,2022,5.5,5.5,115.4,7,119.4,70.1,High
+West Java,2023,5.5,5.5,119,5.5,135,70.47,Moderate
+West Kalimantan,2021,4.5,3.5,96.8,4.5,105.1,57.46,Moderate
+West Kalimantan,2022,5,5.5,91.8,5.5,107.3,64.1,High
+West Kalimantan,2023,5,5.5,107,5,112,65.19,Moderate
+West Nusa Tenggara,2021,4.5,3.5,81.1,5.5,107.7,56.41,Moderate
+West Nusa Tenggara,2022,4.5,5,88.8,5.5,127.4,60.97,High
+West Nusa Tenggara,2023,5,5.5,100,5.5,105,65.58,Moderate
+West Papua,2021,4,3.5,84.8,3.5,79.3,51.44,Moderate
+West Papua,2022,5.7,5.2,101.8,5.5,110.2,66.27,High
+West Papua,2023,5,4.8,128.1,7.2,109.8,70.56,High
+West Sulawesi,2021,3.5,3,81.8,4.5,101.1,50.11,Moderate
+West Sulawesi,2022,4.5,5,86.4,5.5,112.8,59.14,Moderate
+West Sulawesi,2023,5,4.5,117,4.5,94,64.86,Moderate
+West Sumatra,2021,5,4.5,88,5.5,104.1,61.15,High
+West Sumatra,2022,5,5.5,104,5.5,117.8,66.87,High
+West Sumatra,2023,5.5,5.5,104,6,128,68.46,Moderate
+Yogyakarta,2021,6,5.5,106.6,7,116.1,70.55,High
+Yogyakarta,2022,5.5,7,111.1,7,125.9,72.29,High
+Yogyakarta,2023,5.5,5.5,129,6,138,73.27,Moderate
+North Sulawesi,2024,2.3,0.2,48.1,1.3,33.9,21.1,Low
+Bali,2024,2.4,0.4,20.4,2.3,32,29.3,Low
+West Papua,2024,1,0.8,50.9,3.1,65.4,34.9,Low
+Maluku,2024,2.3,1.1,26.3,1,35,33.1,Low
+North Sulawesi,2024,1,0.9,49.2,1.2,57.2,26.6,Low
+Jambi,2024,2.4,1.2,55.3,1.4,41,27.8,Low
+North Sulawesi,2024,1.8,0.4,53.2,2.2,46.2,26.8,Low
+South East Sulawesi,2024,1.1,0.1,58,1,61.9,25.3,Low
+North Sumatra,2024,2.8,0.8,47.7,1.8,41.9,26.7,Low
+Central Java,2024,2.1,0.5,26,2.1,66.1,24.1,Low
+Yogyakarta,2024,2.2,1.1,32,1.8,30.5,22.3,Low
+Central Kalimantan,2024,2.3,0.7,21.6,1.8,63.6,34,Low
+Banten,2024,2.7,0.6,20.2,2.4,38,24.4,Low
+West Kalimantan,2024,2.8,0.2,34.4,1.7,64.4,26.1,Low
+Banten,2024,2.3,0.7,50,1.7,39.4,29.1,Low
+Papua,2024,2.4,1.2,20.5,2.4,57.2,32.3,Low
+Banten,2024,1.3,1.1,35,1.7,47.3,29.2,Low
+West Nusa Tenggara,2024,1.8,1.4,35.1,2.8,35.2,23.2,Low
+Banten,2024,2.3,1.3,15,2.8,50,29.9,Low
+Jambi,2024,2.6,1.2,43.2,1.9,53.7,29.6,Low
+Riau,2024,1.9,0.4,43.4,2.1,62.4,21.9,Low
+West Papua,2024,1,1,52.3,1.4,55.7,21,Low
+Lampung,2024,1.7,0.5,49.5,3.1,33.9,28.3,Low
+East Java,2024,1.9,0.5,37.5,2.9,57.1,21.4,Low
+West Sumatra,2024,1.7,1,31.6,2.3,59.7,25.2,Low
+North Kalimantan,2024,2.5,0.4,41.9,1.9,63.6,29.5,Low
+East Nusa Tenggara,2024,1.4,0.6,56.4,1.6,43.8,29,Low
+South Kalimantan,2024,2.3,0.4,17.2,2.4,66.8,24.7,Low
+Bangka Belitung Islands,2024,2.5,0.5,24.6,3.1,30.5,26.9,Low
+North Maluku,2024,2.6,0.5,24.2,1.3,44.5,29,Low
+West Sumatra,2024,2.5,0.6,17.2,2.1,37.6,26,Low
+North Sulawesi,2024,1,1.3,46.3,1.5,42.8,22.4,Low
+West Java,2024,2.7,1,56.1,3,62.8,21.1,Low
+Papua,2024,1.4,0.4,48.8,3.3,50.9,24.2,Low
+Bangka Belitung Islands,2024,1.6,1.2,30.1,2.2,40.2,21.4,Low
+Riau,2024,2.6,1,48.7,2.4,35.1,25.1,Low
+Central Sulawesi,2024,1.5,0.9,43.1,3.4,53.4,25.6,Low
+Central Kalimantan,2024,2.3,1.2,20.1,1,37.2,21.6,Low
+Jakarta,2024,1.8,0.7,47.9,3.4,51.9,24.3,Low
+North Sumatra,2024,1.3,0.7,36,2.2,35.5,21.6,Low
